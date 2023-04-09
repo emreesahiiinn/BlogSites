@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlogBE",
+    "\\BlogBE\\BlogBE.Api",
+    "\\BlogBE\\BlogBE.Api\\Controllers",
+    "\\BlogBE\\BlogBE.Data",
+    "\\BlogBE\\BlogBE.Data\\Entities"
+  ],
+  "SelectedNode": "\\BlogBE\\BlogBE.Data\\Entities\\Category.cs",
+  "PreviewInSolutionExplorer": false
+}

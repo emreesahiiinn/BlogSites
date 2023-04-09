@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\bin\Debug\net6.0\Blog.Data.deps.json
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\bin\Debug\net6.0\Blog.Data.runtimeconfig.json
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfo.cs
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.dll
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\refint\Blog.Data.dll
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.pdb
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\Blog.Data.genruntimeconfig.cache
+C:\Users\emree\Desktop\Blog\back-end\Blog.Data\obj\Debug\net6.0\ref\Blog.Data.dll
